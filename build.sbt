@@ -1,4 +1,4 @@
-name := "scala-frp"
+name := "scala-frp-sync"
 
 organization := "io.dylemma"
 
